@@ -66,10 +66,6 @@
                             <span></span>
                         </div>
                         <div class="search-box pull-left">
-                            <form action="#">
-                                <input type="text" name="search" placeholder="Search..." required>
-                                <i class="ti-search"></i>
-                            </form>
                         </div>
                     </div>
                     <!-- profile info & task notification -->
